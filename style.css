@@ -1,0 +1,16 @@
+.img-cat{
+    display: block;
+    margin: -8.5rem 15rem 2rem 33rem;
+}
+
+.barra {
+    display: block;
+    margin: auto;
+}
+
+.cat {
+    border: 3px solid black;
+    margin-top: 8rem;
+    display: block;
+    transform: rotate(13deg);
+} 
